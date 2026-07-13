@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "title": "Федеральные округа России",
+    "count": 8,
+    "updated": "2026-07-13",
+    "fields": {
+      "id": "Порядковый идентификатор округа",
+      "code": "Краткий код округа",
+      "name": "Полное название федерального округа",
+      "name_short": "Краткое название округа",
+      "name_en": "Название округа на английском",
+      "center": "Административный центр округа",
+      "subjects_count": "Количество субъектов РФ в составе округа",
+      "cities_count": "Количество городов в составе округа",
+      "population": "Численность населения, человек",
+      "area": "Площадь территории, км²"
+    }
+  },
+  "districts": [
+    {
+      "id": 1,
+      "code": "ЦФО",
+      "name": "Центральный федеральный округ",
+      "name_short": "Центральный",
+      "name_en": "Central Federal District",
+      "center": "Москва",
+      "subjects_count": 18,
+      "cities_count": 310,
+      "population": 40298690,
+      "area": 650200
+    },
+    {
+      "id": 2,
+      "code": "СЗФО",
+      "name": "Северо-Западный федеральный округ",
+      "name_short": "Северо-Западный",
+      "name_en": "Northwestern Federal District",
+      "center": "Санкт-Петербург",
+      "subjects_count": 11,
+      "cities_count": 152,
+      "population": 13876648,
+      "area": 1687000
+    },
+    {
+      "id": 3,
+      "code": "ЮФО",
+      "name": "Южный федеральный округ",
+      "name_short": "Южный",
+      "name_en": "Southern Federal District",
+      "center": "Ростов-на-Дону",
+      "subjects_count": 12,
+      "cities_count": 98,
+      "population": 16589069,
+      "area": 447800
+    },
+    {
+      "id": 4,
+      "code": "СКФО",
+      "name": "Северо-Кавказский федеральный округ",
+      "name_short": "Северо-Кавказский",
+      "name_en": "North Caucasian Federal District",
+      "center": "Пятигорск",
+      "subjects_count": 7,
+      "cities_count": 63,
+      "population": 10310935,
+      "area": 170400
+    },
+    {
+      "id": 5,
+      "code": "ПФО",
+      "name": "Приволжский федеральный округ",
+      "name_short": "Приволжский",
+      "name_en": "Volga Federal District",
+      "center": "Нижний Новгород",
+      "subjects_count": 14,
+      "cities_count": 191,
+      "population": 28408677,
+      "area": 1037000
+    },
+    {
+      "id": 6,
+      "code": "УФО",
+      "name": "Уральский федеральный округ",
+      "name_short": "Уральский",
+      "name_en": "Ural Federal District",
+      "center": "Екатеринбург",
+      "subjects_count": 6,
+      "cities_count": 112,
+      "population": 12282737,
+      "area": 1818500
+    },
+    {
+      "id": 7,
+      "code": "СФО",
+      "name": "Сибирский федеральный округ",
+      "name_short": "Сибирский",
+      "name_en": "Siberian Federal District",
+      "center": "Новосибирск",
+      "subjects_count": 10,
+      "cities_count": 116,
+      "population": 16492894,
+      "area": 4361700
+    },
+    {
+      "id": 8,
+      "code": "ДФО",
+      "name": "Дальневосточный федеральный округ",
+      "name_short": "Дальневосточный",
+      "name_en": "Far Eastern Federal District",
+      "center": "Владивосток",
+      "subjects_count": 11,
+      "cities_count": 69,
+      "population": 7860278,
+      "area": 6952600
+    }
+  ]
+}
